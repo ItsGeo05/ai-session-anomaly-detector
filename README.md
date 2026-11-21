@@ -13,7 +13,7 @@ Designed for IT operations and Tier-1 security analysts to surface high-risk beh
 
 ## Visual Output
 
-![Server Session Anomaly Scatter Plot](assets/anomaly_scatter.png)
+![Server Session Anomaly Scatter Plot](anomaly_scatter.png)
 
 *Isolation Forest separates normal employee activity (blue) from high-frequency automated requests and outbound data spikes (red).*
 
